@@ -16,23 +16,23 @@ int main()
 
     if(marks[i] >= 90)
     {
-        a
+        cout<<"A";
     }
     else if(marks[i]>=80 && marks[i<90)
     {
-        b
+        cout<<"B";
     }
     else if(marks[i]>=70 && marks[i]<80)
     {
-        c
+        cout<<"C";
     }
     else if(marks[i]>=30 && marks[i]<70)
     {
-        d
+        cout<<"D";
     }
     else
     {
-        f
+        cout<<"F";
     }
     }
     
